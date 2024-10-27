@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/stahlheim/ui-components-react/blob/main/public/icon.svg">
+  <img src="https://github.com/stahlheim/ui-components-react/blob/dev/public/icon.svg">
 </p>
 
 # Stahlheim - UI Components React
